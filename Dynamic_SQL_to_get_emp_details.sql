@@ -1,4 +1,4 @@
---Writing a procedure with Dynamic sql to get the emplyee details from emp with same deptno and job category ?
+--Writting a procedure with Dynamic sql to get the emplyee details from emp with same deptno and job category ?
 --Creating a procedure that will take deptno and job type as input and print the details of employees from emp Table.
 
    CREATE OR REPLACE PROCEDURE EMP_DET (
